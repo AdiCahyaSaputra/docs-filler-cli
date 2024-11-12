@@ -1,0 +1,9 @@
+{
+  "excel": {
+    "sheet_name": "example",
+    "placeholder": {
+      "prefix": "[",
+      "suffix": "]"
+    }
+  }
+}

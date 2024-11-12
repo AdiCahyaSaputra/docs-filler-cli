@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "name": "nama_lengkap",
+      "type": "common",
+      "value": "Adi Cahya Saputra"
+    },
+    {
+      "name": "tahun_lahir",
+      "type": "common",
+      "value": "2005"
+    },
+    {
+      "name": "umur",
+      "type": "computed",
+      "value": "\"SUBTRACT\":[\"ADD\":[2000,\"SUBTRACT\":[26,2]],\"@tahun_lahir\"]"
+    }
+  ],
+  [
+    {
+      "name": "nama_lengkap",
+      "type": "common",
+      "value": "Jajang"
+    },
+    {
+      "name": "tahun_lahir",
+      "type": "common",
+      "value": "1999"
+    },
+    {
+      "name": "umur",
+      "type": "computed",
+      "value": "\"SUBTRACT\":[\"ADD\":[2000,\"SUBTRACT\":[26,2]],\"@tahun_lahir\"]"
+    }
+  ]
+]
